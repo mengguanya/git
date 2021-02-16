@@ -166,3 +166,5 @@ particular, they can have the representation of an intermediate tree
 that has not yet been instantiated.  So they do have meaning and usage
 outside of caching - in one sense you can think of the current directory
 cache as being the "work in progress" towards a tree commit).
+
+/**/
